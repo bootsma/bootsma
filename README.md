@@ -1,4 +1,4 @@
-- 👀 I'm also on gitlab: https://gitlab.com/bootsma but most of those projects are private due to industry involvement
+- 👀 I'm also on gitlab: https://gitlab.com/bootsma
 - 💞️ I’m looking to collaborate on interesting projects related to technology in art, imaging, healthcare, and augmented reality
 - 📫 How to reach me: bootsma at gmail.com
 
